@@ -1,14 +1,4 @@
-/*
- * File name:	CalculatorView.java
- * Author:		Derek McKinnon 040-674-434
- * Course:		CST8221 - JAP
- * Lab Section:	401
- * Assignment:	1, Part 2
- * Date:		2013-10-28
- * Professor:	Svillen Ranev
- * Purpose:		To contain and manage the main GUI for the Calculator
- * Class list:	CalculatorView, Controller
- */
+
 package mcki0131.cst8221.assignment1;
 
 import java.awt.BorderLayout;
@@ -33,17 +23,6 @@ import mcki0131.cst8221.assignment1.CalculatorModel.OperationMode;
 import mcki0131.cst8221.assignment1.CalculatorModel.Operator;
 import mcki0131.cst8221.assignment1.CalculatorModel.Precision;
 
-/**
- * This class contains and manages all the components required by the Calculator
- * applications' graphical user interface.
- * 
- * @author Derek McKinnon
- * @version 2.0
- * @see javax.swing.JPanel
- * @since 1.7
- */
-// This class is not meant to be serialized, so suppress warnings about the
-// missing serialversionUID
 @SuppressWarnings("serial")
 public class CalculatorView extends JPanel {
 	private static final String UNICODE_LEFT_ARROW = "\u2190";
