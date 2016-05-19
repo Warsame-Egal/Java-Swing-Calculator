@@ -1,25 +1,7 @@
-/*
- * File name:	CalculatorModel.java
- * Author:		Derek McKinnon 040-674-434
- * Course:		CST8221 - JAP
- * Lab Section:	401
- * Assignment:	1, Part 2
- * Date:		2013-10-28
- * Professor:	Svillen Ranev
- * Purpose:		To provide the model component of the Calculator applciation.
- */
+
 package mcki0131.cst8221.assignment1;
 
-/**
- * This class contains the data for the Calculator application and provides the
- * logic therein to perform calculations and return results.
- * 
- * @author Derek McKinnon
- * @version 1.0
- * @see mcki0131.cst8221.assignment1.CalculatorView
- * @see mcki0131.cst8221.assignment1.CalculatorView.Controller
- * @since 1.7
- */
+
 public class CalculatorModel {
 	/**
 	 * A String that is returned upon error from the calculator. * * {@value}
