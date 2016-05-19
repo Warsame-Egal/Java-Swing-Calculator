@@ -1,13 +1,4 @@
-/*
- * File name:	CalculatorSplashScreen.java
- * Author:		Derek McKinnon 040-674-434
- * Course:		CST8221 - JAP
- * Lab Section:	401
- * Assignment:	1, Part 2
- * Date:		2013-10-28
- * Professor:	Svillen Ranev
- * Purpose:		To provide a splash screen for the Calculator application
- */
+
 package mcki0131.cst8221.assignment1;
 
 import java.awt.BorderLayout;
@@ -20,17 +11,6 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
-/**
- * This class creates a JFrame and JPanel containing an image and the author's
- * student information and displays it for an amount of seconds specified in the
- * constructor.
- * 
- * @author Derek McKinnon
- * @version 1.0
- * @see javax.swing.JFrame
- * @see javax.swing.JPanel
- * @since 1.7
- */
 public class CalculatorSplashScreen {
 	/**
 	 * The duration in seconds that the splash screen will be visible.
