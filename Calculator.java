@@ -1,29 +1,6 @@
-/*
- * File name:	Calculator.java
- * Author:		Derek McKinnon 040-674-434
- * Course:		CST8221 - JAP
- * Lab Section:	401
- * Assignment:	1, Part 2
- * Date:		2013-10-28
- * Professor:	Svillen Ranev
- * Purpose:		To create and launch the splash screen and main GUI for the Calculator
- */
-package mcki0131.cst8221.assignment1;
-
 import java.awt.EventQueue;
-
 import javax.swing.JFrame;
 
-/**
- * This class is responsible for creating and launching a splash screen and the
- * main GUI for the Calculator application.
- * 
- * @author Derek McKinnon
- * @version 1.0
- * @see mcki0131.cst8221.assignment1.CalculatorSplashScreen
- * @see mcki0131.cst8221.assignment1.CalculatorView
- * @since 1.7
- */
 public class Calculator {
 	/**
 	 * The main method that runs at program launch.
